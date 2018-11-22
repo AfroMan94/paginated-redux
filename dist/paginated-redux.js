@@ -1,3 +1,4 @@
+import moment from 'moment';
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
